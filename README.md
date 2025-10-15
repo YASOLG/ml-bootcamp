@@ -13,24 +13,24 @@
 
 **macOS / Linux:**
 ```bash
-git clone https://github.com/DandaAkhilReddy/reddygo-platform.git
-cd reddygo-platform/ml-bootcamp
+git clone https://github.com/DandaAkhilReddy/ml-bootcamp.git
+cd ml-bootcamp
 chmod +x quick-start.sh
 ./quick-start.sh
 ```
 
 **Windows:**
 ```cmd
-git clone https://github.com/DandaAkhilReddy/reddygo-platform.git
-cd reddygo-platform\ml-bootcamp
+git clone https://github.com/DandaAkhilReddy/ml-bootcamp.git
+cd ml-bootcamp
 quick-start.bat
 ```
 
 ### Option 2: Docker (Even Easier!)
 
 ```bash
-git clone https://github.com/DandaAkhilReddy/reddygo-platform.git
-cd reddygo-platform/ml-bootcamp
+git clone https://github.com/DandaAkhilReddy/ml-bootcamp.git
+cd ml-bootcamp
 docker-compose up
 ```
 
@@ -94,8 +94,8 @@ If you prefer manual setup:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DandaAkhilReddy/reddygo-platform.git
-   cd reddygo-platform/ml-bootcamp
+   git clone https://github.com/DandaAkhilReddy/ml-bootcamp.git
+   cd ml-bootcamp
    ```
 
 2. **Create virtual environment**
@@ -443,8 +443,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Support & Community
 
-- **Issues**: [GitHub Issues](https://github.com/DandaAkhilReddy/reddygo-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/DandaAkhilReddy/reddygo-platform/discussions)
+- **Issues**: [GitHub Issues](https://github.com/DandaAkhilReddy/ml-bootcamp/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DandaAkhilReddy/ml-bootcamp/discussions)
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
@@ -507,8 +507,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## ⚡ Get Started Now!
 
 ```bash
-git clone https://github.com/DandaAkhilReddy/reddygo-platform.git
-cd reddygo-platform/ml-bootcamp
+git clone https://github.com/DandaAkhilReddy/ml-bootcamp.git
+cd ml-bootcamp
 ./quick-start.sh  # or quick-start.bat on Windows
 ```
 
